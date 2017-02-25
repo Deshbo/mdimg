@@ -1,4 +1,4 @@
-# mdimg
+# Markdown image folder
 
- Some images for markdown editor!
+Some images for markdown editor!
 ---
