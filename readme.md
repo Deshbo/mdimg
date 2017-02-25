@@ -1,4 +1,4 @@
-# Markdown image folder
+# Markdown image repository
 
 Some images for markdown editor!
 ---
